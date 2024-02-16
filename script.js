@@ -1,2 +1,1 @@
-this.alert(6969)
-alert(69)
+document.getElementById("divMenu").style.display = "none";
