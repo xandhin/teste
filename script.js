@@ -1,3 +1,4 @@
 var CustomModule = (function() { 
-  alert(32434)
-}
+    // Your code here
+    alert(32434);
+})();
