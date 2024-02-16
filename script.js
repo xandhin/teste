@@ -1,1 +1,1 @@
-alert(6969)
+this.alert(6969);
