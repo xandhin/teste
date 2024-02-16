@@ -1,1 +1,3 @@
-alert(32434)
+var CustomModule = (function() { 
+  alert(32434)
+}
